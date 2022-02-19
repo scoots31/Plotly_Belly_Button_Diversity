@@ -3,7 +3,7 @@
 ## Overview
 The concept of Improbable Beef is to a product that tastes like beef but contains no meat at all. The research is examining if synthesizing meat from bacteria found inside the belly button of humans can imitate the flavor of beef. Below are the samples collected as each individual represented by ID number.
 
-[Belly Button Diversity Dashboard] (https://scoots31.github.io/Plotly_Belly_Button_Diversity/)
+[Belly Button Diversity Dashboard](https://scoots31.github.io/Plotly_Belly_Button_Diversity/)
 
 ## Deliverable 1
 Horiztonal bar chart to display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage.
